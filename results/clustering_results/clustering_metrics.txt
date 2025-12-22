@@ -1,0 +1,3 @@
+Model: K-Means
+Optimal K: 9
+Silhouette Score: 0.2905874455269022

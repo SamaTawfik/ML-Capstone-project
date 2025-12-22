@@ -1,0 +1,6 @@
+Model: Decision Tree
+Accuracy : None
+Accuracy in percentage : None
+Decision Tree Confusion Matrix : None
+Decision TreeClassification Report 
+: None
