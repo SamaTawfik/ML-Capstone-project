@@ -1,6 +1,0 @@
-Model: Logistic Regression
-Accuracy : None
-Accuracy in percentage : None
-Decisin Tree Confusion Matrix : None
-Decisin Tree Classification Report 
-: None
