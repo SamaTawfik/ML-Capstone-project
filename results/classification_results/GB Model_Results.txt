@@ -1,0 +1,13 @@
+Model: Gradient Boosting Classifier 
+Accuracy : 0.9707317073170731
+Accuracy in percentage : 97.07%
+Gradient Boosting Classifier Classification Report :
+              precision    recall  f1-score   support
+
+           0       0.96      0.98      0.97       100
+           1       0.98      0.96      0.97       105
+
+    accuracy                           0.97       205
+   macro avg       0.97      0.97      0.97       205
+weighted avg       0.97      0.97      0.97       205
+
